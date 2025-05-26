@@ -2,7 +2,6 @@ import requests
 import json
 import pandas as pd
 from collections import defaultdict
-import random
 from datetime import datetime
 import re
 import unicodedata
